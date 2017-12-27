@@ -51,7 +51,6 @@
     <string name="ss_lessons_error">Une erreur est survenue lors de l\'ouverture trimestrielle</string>
     <string name="ss_lessons_empty">On dirait qu\'il n\'y a pas de leçons à l\'heure actuelle</string>
     <string name="ss_lessons_read">Lire</string>
-    <string name="ss_reading_empty">On dirait que cette leçon est vide. S\'il vous plaît revenez plus tard</string>
     <string name="ss_reading_offline">Tu es hors ligne. Rebranchez-vous pour lire cette leçon</string>
     <string name="ss_reading_offline_retry">Recommencez</string>
     <string name="ss_reading_downloading">Télécharger la leçon pour hors ligne</string>
@@ -59,8 +58,6 @@
     <string name="ss_reading_suggest_edit">Proposer de modifier ou de correction</string>
     <string name="ss_reading_suggest_edit_hint">S\'il vous plaît décrire votre correction ou suggestion</string>
     <string name="ss_reading_suggest_edit_done">Je vous remercie! Votre suggestion sera examinée</string>
-    <string name="ss_reading_comment">Commentaire</string>
-    <string name="ss_reading_enter_comment">Entrez votre commentaire</string>
     <string name="ss_reading_copied">Sélection copiée.</string>
     <string name="ss_reading_share_to">Sélection Partager sur:</string>
     <string name="ss_bible">Bible</string>
@@ -68,8 +65,6 @@
     <!-- TODO: remove when done -->
     <string name="ss_coming_soon_header">Arrive bientôt</string>
     <string name="ss_coming_soon_subheader">Nous travaillons sur cette fonctionnalité dès maintenant. Restez à l\'écoute, il est à venir bientôt</string>
-    <string name="ss_about_app_version">version 3.0</string>
-    <string name="ss_about_made">Fabriqué avec &#10084; par Adventech</string>
     <string name="ss_settings_display_options">Option d\'affichage</string>
     <string name="ss_settings_color_theme">Thème de couleur</string>
     <string name="ss_settings_color_theme_light">Lumière</string>

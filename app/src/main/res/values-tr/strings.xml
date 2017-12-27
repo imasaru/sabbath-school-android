@@ -51,7 +51,6 @@
     <string name="ss_lessons_error">Kitapçık açılırken hata oluştu. Lütfen tekrar deneyin</string>
     <string name="ss_lessons_empty">Şu anda hiçbir ders bulunamadı</string>
     <string name="ss_lessons_read">Oku</string>
-    <string name="ss_reading_empty">Bu ders boş  görünüyor</string>
     <string name="ss_reading_offline">Çevrimdışısınız. Bu dersi okumak için tekrar bağlantı kurun</string>
     <string name="ss_reading_offline_retry">Yeniden dene</string>
     <string name="ss_reading_downloading">Çevrimdışı ders indiriliyor</string>
@@ -59,8 +58,6 @@
     <string name="ss_reading_suggest_edit">Hata bildir</string>
     <string name="ss_reading_suggest_edit_hint">Hatayi açıklayin veya bir öneride bulunun lütfen</string>
     <string name="ss_reading_suggest_edit_done">Teşekkür ederiz! Öneriniz gözden geçirilecektir</string>
-    <string name="ss_reading_comment">Yorum Yap</string>
-    <string name="ss_reading_enter_comment">Yorumunuzu girin</string>
     <string name="ss_reading_copied">Vurguladıklarınız kopyalandı</string>
     <string name="ss_reading_share_to">Paylaş:</string>
     <string name="ss_bible">Kutsal Kitab</string>
@@ -68,8 +65,6 @@
     <!-- TODO: remove when done -->
     <string name="ss_coming_soon_header">Yakında</string>
     <string name="ss_coming_soon_subheader">Şu anda bu fonksiyon üzerinde çalışıyoruz. Ayrılmayin, bitmek üzere</string>
-    <string name="ss_about_app_version">Sürüm 3.0</string>
-    <string name="ss_about_made">Adventech tarafından &#10084; ile yapıldı</string>
     <string name="ss_settings_display_options">Görüntüleme ayarları</string>
     <string name="ss_settings_color_theme">Renk teması</string>
     <string name="ss_settings_color_theme_light">Açık</string>

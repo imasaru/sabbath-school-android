@@ -51,7 +51,6 @@
     <string name="ss_lessons_error">Fehler beim Öffnen der Lektion. Bitte versuche es erneut</string>
     <string name="ss_lessons_empty">Es wurden keine Lektionen gefunden</string>
     <string name="ss_lessons_read">Lesen</string>
-    <string name="ss_reading_empty">Die Lektion ist zur Zeit leer</string>
     <string name="ss_reading_offline">Du bist offline. Reconnect, um diese Lektion zu lesen</string>
     <string name="ss_reading_offline_retry">Wiederholen</string>
     <string name="ss_reading_downloading">Laden von Lektion für offline</string>
@@ -59,8 +58,6 @@
     <string name="ss_reading_suggest_edit">Fehler oder Vorschlag übermitteln</string>
     <string name="ss_reading_suggest_edit_hint">Bitte beschreiben Sie den Fehler oder Ihren Vorschlag</string>
     <string name="ss_reading_suggest_edit_done">Vielen Dank! Ihr Vorschlag wird überprüft</string>
-    <string name="ss_reading_comment">Kommentar</string>
-    <string name="ss_reading_enter_comment">Geben Sie Ihren Kommentar ein</string>
     <string name="ss_reading_copied">Auswahl wurde kopiert</string>
     <string name="ss_reading_share_to">Auswahl teilen über:</string>
     <string name="ss_bible">Bibel</string>
@@ -68,8 +65,6 @@
     <!-- TODO: remove when done -->
     <string name="ss_coming_soon_header">Demnächst</string>
     <string name="ss_coming_soon_subheader">Zur Zeit arbeiten wir an dieser Funktion. Haben Sie Geduld, bald wird diese verfügbar sein</string>
-    <string name="ss_about_app_version">version 3.0</string>
-    <string name="ss_about_made">Entwickelt mit &#10084; von Adventech</string>
     <string name="ss_settings_display_options">Darstellungsoptionen</string>
     <string name="ss_settings_color_theme">Farbschema</string>
     <string name="ss_settings_color_theme_light">Hell</string>

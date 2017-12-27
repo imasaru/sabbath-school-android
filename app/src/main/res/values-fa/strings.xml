@@ -28,23 +28,18 @@
 <string name="ss_lessons_error">"خطا در هنگام باز کردن سه ماهه رخ داده است"</string>
 <string name="ss_lessons_empty">"به نظر می رسد هیچ درس در حال حاضر وجود دارد"</string>
 <string name="ss_lessons_read">"خواندن"</string>
-<string name="ss_reading_empty">"به نظر می رسد مثل این درس خالی است. لطفا بعدا"</string>
-<string name="ss_reading_error">"خطا در هنگام باز کردن درس رخ داده است"</string>
+    <string name="ss_reading_error">"خطا در هنگام باز کردن درس رخ داده است"</string>
 <string name="ss_reading_downloading">"دانلود درس برای آنلاین"</string>
 <string name="ss_reading_suggest_edit">"پیشنهاد ویرایش یا اصلاح"</string>
 <string name="ss_reading_suggest_edit_hint">"لطفا اصلاح و یا پیشنهاد خود را توصیف"</string>
 <string name="ss_reading_suggest_edit_done">"متشکرم! پیشنهاد شما بررسی خواهد شد"</string>
-<string name="ss_reading_comment">"اظهار نظر"</string>
-<string name="ss_reading_enter_comment">"نظر خود را وارد کنید"</string>
-<string name="ss_reading_copied">"انتخاب کپی شده است."</string>
+    <string name="ss_reading_copied">"انتخاب کپی شده است."</string>
 <string name="ss_reading_share_to">"به اشتراک انتخاب به:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"به زودی"</string>
 <string name="ss_coming_soon_subheader">"ما در حال کار بر روی این ویژگی در حال حاضر. در ارتباط باشید، به زودی"</string>
-<string name="ss_about_app_version">"نسخه 3.0"</string>
-<string name="ss_about_made">"ساخته شده با ❤ توسط Adventech"</string>
-<string name="ss_settings_display_options">"گزینه های نمایش"</string>
+    <string name="ss_settings_display_options">"گزینه های نمایش"</string>
 <string name="ss_settings_color_theme">"تم رنگ"</string>
 <string name="ss_settings_color_theme_light">"سبک"</string>
 <string name="ss_settings_color_theme_sepia">"رنگ سوبیایی"</string>

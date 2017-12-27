@@ -51,7 +51,6 @@
     <string name="ss_lessons_error">Помилка під час відкриття посібника. Будь ласка, спробуйте пізніше</string>
     <string name="ss_lessons_empty">Схоже, що немає уроків в даний момент</string>
     <string name="ss_lessons_read">Читати</string>
-    <string name="ss_reading_empty">Схоже, цей урок порожній</string>
     <string name="ss_reading_offline">Схоже ви перебуваєте поза мережею. Під\'єднайтесь до інтернету і спробуйте ще раз</string>
     <string name="ss_reading_offline_retry">Спробувати ще раз</string>
     <string name="ss_reading_downloading">Завантаження уроку</string>
@@ -59,8 +58,6 @@
     <string name="ss_reading_suggest_edit">Запропонувати редагування або виправлення</string>
     <string name="ss_reading_suggest_edit_hint">Будь ласка, опишіть проблему або пропозицію</string>
     <string name="ss_reading_suggest_edit_done">Дякую! Ваша пропозиція буде розглянута</string>
-    <string name="ss_reading_comment">Коментар</string>
-    <string name="ss_reading_enter_comment">Введіть свій коментар</string>
     <string name="ss_reading_copied">Вибране було скопійовано</string>
     <string name="ss_reading_share_to">Поділитись в:</string>
     <string name="ss_bible">Біблія</string>
@@ -68,8 +65,6 @@
     <!-- TODO: remove when done -->
     <string name="ss_coming_soon_header">Незабаром</string>
     <string name="ss_coming_soon_subheader">Ми працюємо над цією функцією прямо зараз. Скоро завершимо, залишайтеся з нами</string>
-    <string name="ss_about_app_version">версія 3.0</string>
-    <string name="ss_about_made">Зроблено з &#10084; - Adventech</string>
     <string name="ss_settings_display_options">Параметри дисплея</string>
     <string name="ss_settings_color_theme">Колірна тема</string>
     <string name="ss_settings_color_theme_light">Світла</string>

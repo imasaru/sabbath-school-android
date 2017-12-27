@@ -49,23 +49,18 @@
 <string name="ss_lessons_error">"Възникна грешка при отварянето тримесечно"</string>
 <string name="ss_lessons_empty">"Изглежда, че в момента няма уроци"</string>
 <string name="ss_lessons_read">"Прочети"</string>
-<string name="ss_reading_empty">"Изглежда, че този урок е празен. Моля, проверете отново по-късно"</string>
-<string name="ss_reading_error">"Възникна грешка при отваряне на урока"</string>
+    <string name="ss_reading_error">"Възникна грешка при отваряне на урока"</string>
 <string name="ss_reading_downloading">"Изтегляне на урока за офлайн"</string>
 <string name="ss_reading_suggest_edit">"Предложете редакция или корекция"</string>
 <string name="ss_reading_suggest_edit_hint">"Моля, опишете вашата поправка или предложение"</string>
 <string name="ss_reading_suggest_edit_done">"Благодаря! Вашето предложение ще бъде прегледано"</string>
-<string name="ss_reading_comment">"Коментар"</string>
-<string name="ss_reading_enter_comment">"Въведете коментара си"</string>
-<string name="ss_reading_copied">"Изборът бе копиран."</string>
+    <string name="ss_reading_copied">"Изборът бе копиран."</string>
 <string name="ss_reading_share_to">"Споделяне на селекцията на:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"Очаквайте скоро"</string>
 <string name="ss_coming_soon_subheader">"Понастоящем работим върху тази функция. Остани настроен, скоро ще дойде"</string>
-<string name="ss_about_app_version">"Версия 3.0"</string>
-<string name="ss_about_made">"Направено с ❤ от Адвентех"</string>
-<string name="ss_settings_display_options">"Опции за показване"</string>
+    <string name="ss_settings_display_options">"Опции за показване"</string>
 <string name="ss_settings_color_theme">"Цветна тема"</string>
 <string name="ss_settings_color_theme_light">"Светлина"</string>
 <string name="ss_settings_color_theme_sepia">"Сепия"</string>

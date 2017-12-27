@@ -28,23 +28,18 @@
 <string name="ss_lessons_error">"Feil oppstod under åpning kvartalsvis"</string>
 <string name="ss_lessons_empty">"Det ser ut til at det ikke er noen leksjoner for øyeblikket"</string>
 <string name="ss_lessons_read">"Lese"</string>
-<string name="ss_reading_empty">"Ser ut som denne leksjonen er tom. Vennligst sjekk tilbake senere"</string>
-<string name="ss_reading_error">"Feil oppstod under åpning av leksjon"</string>
+    <string name="ss_reading_error">"Feil oppstod under åpning av leksjon"</string>
 <string name="ss_reading_downloading">"Laster ned leksjon for offline"</string>
 <string name="ss_reading_suggest_edit">"Foreslå redigering eller korreksjon"</string>
 <string name="ss_reading_suggest_edit_hint">"Vennligst beskriv din rettelse eller forslag"</string>
 <string name="ss_reading_suggest_edit_done">"Takk skal du ha! Ditt forslag vil bli vurdert"</string>
-<string name="ss_reading_comment">"Kommentar"</string>
-<string name="ss_reading_enter_comment">"Skriv inn din kommentar"</string>
-<string name="ss_reading_copied">"Valget er kopiert."</string>
+    <string name="ss_reading_copied">"Valget er kopiert."</string>
 <string name="ss_reading_share_to">"Del utvalg til:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"Kommer snart"</string>
 <string name="ss_coming_soon_subheader">"Vi jobber med denne funksjonen akkurat nå. Hold deg oppdatert, det kommer snart"</string>
-<string name="ss_about_app_version">"Versjon 3.0"</string>
-<string name="ss_about_made">"Laget med ❤ av Adventech"</string>
-<string name="ss_settings_display_options">"Skjermalternativer"</string>
+    <string name="ss_settings_display_options">"Skjermalternativer"</string>
 <string name="ss_settings_color_theme">"Farge tema"</string>
 <string name="ss_settings_color_theme_light">"Lett"</string>
 <string name="ss_settings_color_theme_sepia">"Sepia"</string>

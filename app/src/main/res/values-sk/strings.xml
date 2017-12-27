@@ -28,23 +28,18 @@
 <string name="ss_lessons_error">"Pri otvorení štvrťročne došlo k chybe"</string>
 <string name="ss_lessons_empty">"Zdá sa, že momentálne nie sú žiadne lekcie"</string>
 <string name="ss_lessons_read">"Prečítať"</string>
-<string name="ss_reading_empty">"Zdá sa, že táto lekcia je prázdna. Pozrite sa neskôr"</string>
-<string name="ss_reading_error">"Pri otvorení lekcie sa vyskytla chyba"</string>
+    <string name="ss_reading_error">"Pri otvorení lekcie sa vyskytla chyba"</string>
 <string name="ss_reading_downloading">"Sťahovanie lekcie pre offline"</string>
 <string name="ss_reading_suggest_edit">"Navrhnúť úpravu alebo opravu"</string>
 <string name="ss_reading_suggest_edit_hint">"Opíšte svoju opravu alebo návrh"</string>
 <string name="ss_reading_suggest_edit_done">"Ďakujem! Váš návrh bude preskúmaný"</string>
-<string name="ss_reading_comment">"Komentár"</string>
-<string name="ss_reading_enter_comment">"Zadajte svoj komentár"</string>
-<string name="ss_reading_copied">"Výber bol skopírovaný."</string>
+    <string name="ss_reading_copied">"Výber bol skopírovaný."</string>
 <string name="ss_reading_share_to">"Zdieľanie výberu na:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"Už čoskoro"</string>
 <string name="ss_coming_soon_subheader">"Túto funkciu práve teraz pracujeme. Zostaňte naladení, príde čoskoro"</string>
-<string name="ss_about_app_version">"Verzia 3.0"</string>
-<string name="ss_about_made">"Vyrobené s ❤ od Adventech"</string>
-<string name="ss_settings_display_options">"Možnosti zobrazenia"</string>
+    <string name="ss_settings_display_options">"Možnosti zobrazenia"</string>
 <string name="ss_settings_color_theme">"Farebná téma"</string>
 <string name="ss_settings_color_theme_light">"Svetlo"</string>
 <string name="ss_settings_color_theme_sepia">"Sépia"</string>

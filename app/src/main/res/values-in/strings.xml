@@ -50,22 +50,17 @@
     <string name="ss_lessons_error">"Error muncul ketika membuka triwulan"</string>
     <string name="ss_lessons_empty">"Sepertinya tidak ada pelajaran saat ini"</string>
     <string name="ss_lessons_read">"Baca"</string>
-    <string name="ss_reading_empty">"Sepertinay pelajaran ini kosong. Silahkan cek kembali nanti"</string>
     <string name="ss_reading_error">"Error muncul ketika membuka pelajaran"</string>
     <string name="ss_reading_downloading">"Mengunduh pelajaran untuk offline"</string>
     <string name="ss_reading_suggest_edit">"Sarankan perubahan atau koreksi"</string>
     <string name="ss_reading_suggest_edit_hint">"Silahkan deskripsikan koreksi atau saran anda"</string>
     <string name="ss_reading_suggest_edit_done">"Terima Kasih! Saran anda akan direview"</string>
-    <string name="ss_reading_comment">"Komentar"</string>
-    <string name="ss_reading_enter_comment">"Masukkan komentar anda"</string>
     <string name="ss_reading_copied">"Yang dipilih sudah di copy"</string>
     <string name="ss_reading_share_to">"Bagikan yang dipilih ke:"</string>
 
     <!-- TODO: remove when done -->
     <string name="ss_coming_soon_header">"Akan datang segera"</string>
     <string name="ss_coming_soon_subheader">"Kami sedang mengerjakan fitur ini. Tetaplah disini, akan datang segera"</string>
-    <string name="ss_about_app_version">"versi 3.0"</string>
-    <string name="ss_about_made">"Dibuat dengan ❤ oleh Adventech"</string>
     <string name="ss_settings_display_options">"Opsi tampilan"</string>
     <string name="ss_settings_color_theme">"Warna"</string>
     <string name="ss_settings_color_theme_light">"Terang"</string>

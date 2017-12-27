@@ -65,7 +65,6 @@
     <string name="ss_lessons_empty">It looks like there are no lessons at the moment</string>
     <string name="ss_lessons_read">Read</string>
 
-    <string name="ss_reading_empty">Looks like this lesson is empty. Please check back later</string>
     <string name="ss_reading_offline">You are offline. Reconnect to read this lesson</string>
     <string name="ss_reading_offline_retry">Retry</string>
     <string name="ss_reading_downloading">Downloading lesson for offline</string>
@@ -74,8 +73,6 @@
     <string name="ss_reading_suggest_edit">Suggest edit or correction</string>
     <string name="ss_reading_suggest_edit_hint">Please describe your correction or suggestion</string>
     <string name="ss_reading_suggest_edit_done">Thank you! Your suggestion will be reviewed</string>
-    <string name="ss_reading_comment">Comment</string>
-    <string name="ss_reading_enter_comment">Enter your comment</string>
     <string name="ss_reading_copied">Selection copied.</string>
     <string name="ss_reading_share_to">Share selection to:</string>
 
@@ -100,15 +97,8 @@
     <string name="ss_coming_soon_subheader">We are working on this feature right now. Stay tuned, it\'s coming soon</string>
 
 
-    <string name="ss_about_app_version">version 3.0</string>
-    <string translatable="false" name="ss_about_facebook">@string/ss_settings_facebook</string>
-    <string translatable="false" name="ss_about_facebook_summary">@string/ss_settings_facebook_summary</string>
-    <string translatable="false" name="ss_about_instagram">@string/ss_settings_instagram</string>
-    <string translatable="false" name="ss_about_instagram_summary">@string/ss_settings_instagram_summary</string>
-    <string translatable="false" name="ss_about_github">@string/ss_settings_github</string>
-    <string translatable="false" name="ss_about_github_summary">@string/ss_settings_github_summary</string>
-
-    <string name="ss_about_made">Made with &#10084; by Adventech</string>
+    <string name="ss_about_adventech_summary">God\'s Ministry through Technology</string>
+    <string name="ss_about_adventech_mission">Mission of Adventech is first and foremost - give glory to our Lᴏʀᴅ, the Ancient of Days. We are dedicated to do our ministry through technology. Our goal is to unite our Seventh-Day Adventist Church. Our goal is to proclaim Good News to this world by means of technology and advancements in communications. Our goal is to witness Jesus’ Second Coming.\n\n  We are inspired by the example and methods of Jesus, when He ministered here on Earth. Therefore, we are committed to deliver high degree of quality of all our projects at absolutely no cost with love and dedication. We are committed to give glory to our Father, because He is worthy of the highest of praise.  We truly believe that God has increased the knowledge of the modern world and wants us to use it for His glory to proclaim His soon return!</string>
 
     <string name="ss_settings_display_options">Display options</string>
     <string name="ss_settings_color_theme">Color theme</string>
@@ -157,6 +147,5 @@
 
 
     <string translatable="false" name="facebook_app_id">1440555266255436</string>
-    <string translatable="false" name="fb_login_protocol_scheme">1440555266255436</string>
     <string translatable="false" name="ss_quarterly_cover_transition">ssQuarterlyCoverTransition</string>
 </resources>

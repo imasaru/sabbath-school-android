@@ -61,7 +61,6 @@
     <string name="ss_lessons_empty">Parece que no hay clases en el momento</string>
     <string name="ss_lessons_read">Leer</string>
 
-    <string name="ss_reading_empty">Parece que esta lección está vacía. Por favor, vuelva más tarde</string>
     <string name="ss_reading_offline">Estas desconectado. Vuelva a conectar para leer esta lección</string>
     <string name="ss_reading_offline_retry">Rever</string>
     <string name="ss_reading_downloading">Descargando la lección para fuera de línea</string>
@@ -70,8 +69,6 @@
     <string name="ss_reading_suggest_edit">Sugiere edición o corrección</string>
     <string name="ss_reading_suggest_edit_hint">Por favor describa su corrección o sugerencia</string>
     <string name="ss_reading_suggest_edit_done">Gracias! Tu sugerencia será revisado</string>
-    <string name="ss_reading_comment">Comentario</string>
-    <string name="ss_reading_enter_comment">Escriba su comentario</string>
     <string name="ss_reading_copied">Selección copiada</string>
     <string name="ss_reading_share_to">Compartir selección a:</string>
     <string name="ss_bible">Biblia</string>
@@ -80,10 +77,6 @@
     <string name="ss_coming_soon_header">Próximamente</string>
     <string name="ss_coming_soon_subheader">Estamos trabajando en esta función en este momento. Manténgase en sintonía, que\'s próximamente</string>
 
-
-    <string name="ss_about_app_version">versión 3.0</string>
-
-    <string name="ss_about_made">Hecho con &#10084; por Adventech</string>
 
     <string name="ss_settings_display_options">Opciones de visualización</string>
     <string name="ss_settings_color_theme">Tema de color</string>

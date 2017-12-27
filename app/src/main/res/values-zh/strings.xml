@@ -39,7 +39,6 @@
     <string name="ss_lessons_empty">看来现在没有任何课程</string>
     <string name="ss_lessons_read">阅读</string>
 
-    <string name="ss_reading_empty">看来这课是空的。请稍后再回来</string>
     <string name="ss_reading_offline">你离线了 请重新连接以阅读本课程。</string>
     <string name="ss_reading_offline_retry">重试</string>
     <string name="ss_reading_downloading">下载课程</string>
@@ -48,8 +47,6 @@
     <string name="ss_reading_suggest_edit">建议修改或更正</string>
     <string name="ss_reading_suggest_edit_hint">请描述您的更正或建议</string>
     <string name="ss_reading_suggest_edit_done">谢谢！ 我们会审查您的建议。</string>
-    <string name="ss_reading_comment">评论</string>
-    <string name="ss_reading_enter_comment">输入评论</string>
     <string name="ss_reading_copied">选择复制。</string>
     <string name="ss_reading_share_to">共享选择：</string>
 
@@ -58,9 +55,6 @@
 <!--TODO: remove when done-->
     <string name="ss_coming_soon_header">快来了</string>
     <string name="ss_coming_soon_subheader">我们正在研究这个功能。 请继续关注，即将到来。</string>
-
-    <string name="ss_about_app_version">版本3.0</string>
-    <string name="ss_about_made">用Adventech的❤做出来</string>
 
     <string name="ss_settings_display_options">显示选项</string>
     <string name="ss_settings_color_theme">颜色主题</string>

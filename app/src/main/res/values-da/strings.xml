@@ -28,23 +28,18 @@
 <string name="ss_lessons_error">"Der opstod en fejl under åbningen"</string>
 <string name="ss_lessons_empty">"Studiet er ikke tilgængelig i øjeblikket"</string>
 <string name="ss_lessons_read">"Læs"</string>
-<string name="ss_reading_empty">"Dette studie er ikke klar endnu. Tjek venligst senere."</string>
-<string name="ss_reading_error">"Der opstod en fejl under åbningen af ​​studiet"</string>
+    <string name="ss_reading_error">"Der opstod en fejl under åbningen af ​​studiet"</string>
 <string name="ss_reading_downloading">"Downloader offline studier"</string>
 <string name="ss_reading_suggest_edit">"Foreslå redigering eller korrektion"</string>
 <string name="ss_reading_suggest_edit_hint">"Beskriv venligst din rettelse eller forslag"</string>
 <string name="ss_reading_suggest_edit_done">"Tak! Dit forslag vil blive gennemgået"</string>
-<string name="ss_reading_comment">"Kommentar"</string>
-<string name="ss_reading_enter_comment">"Indtast din kommentar"</string>
-<string name="ss_reading_copied">"Sektionen er kopieret"</string>
+    <string name="ss_reading_copied">"Sektionen er kopieret"</string>
 <string name="ss_reading_share_to">"Del:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"Kommer snart"</string>
 <string name="ss_coming_soon_subheader">"Vi arbejder på denne funktion lige nu."</string>
-<string name="ss_about_app_version">"Version 3.0"</string>
-<string name="ss_about_made">"Made with ❤ by Adventech"</string>
-<string name="ss_settings_display_options">"Display muligheder"</string>
+    <string name="ss_settings_display_options">"Display muligheder"</string>
 <string name="ss_settings_color_theme">"Fargetema"</string>
 <string name="ss_settings_color_theme_light">"Lys"</string>
 <string name="ss_settings_color_theme_sepia">"Sepia"</string>

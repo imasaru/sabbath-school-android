@@ -62,8 +62,7 @@ public class SSAboutActivity extends SSColorSchemeActivity {
 
         int primaryColor = Color.parseColor(SSColorTheme.getInstance().getColorPrimary());
 
-        DrawableCompat.setTint(binding.ssLogo.getDrawable(), primaryColor);
-        binding.ssAppTitle.setTextColor(primaryColor);
+        binding.ssWebsite.setTextColor(primaryColor);
         binding.ssAppBar.ssToolbar.setBackgroundColor(primaryColor);
 
         this.ssFirebaseAnalytics = FirebaseAnalytics.getInstance(this);

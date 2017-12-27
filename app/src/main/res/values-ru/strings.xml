@@ -62,7 +62,6 @@
     <string name="ss_lessons_empty">Похоже, что ни одного урока не найдено в данный момент</string>
     <string name="ss_lessons_read">Читать</string>
 
-    <string name="ss_reading_empty">Похоже на то, что урок пуст</string>
     <string name="ss_reading_offline">Ошибка соединения. Подключитесь к сети и попробуйте снова</string>
     <string name="ss_reading_offline_retry">Попробовать снова</string>
     <string name="ss_reading_downloading">Загружется урок для режима оффлайн</string>
@@ -71,8 +70,6 @@
     <string name="ss_reading_suggest_edit">Сообщить об ошибке</string>
     <string name="ss_reading_suggest_edit_hint">Пожалуйста, опишите ошибку или предложение</string>
     <string name="ss_reading_suggest_edit_done">Спасибо! Ваше предложение будет рассмотрено</string>
-    <string name="ss_reading_comment">Комментарий</string>
-    <string name="ss_reading_enter_comment">Введите свой комментарий</string>
     <string name="ss_reading_copied">Выделения скопировано</string>
     <string name="ss_reading_share_to">Поделиться в:</string>
     <string name="ss_bible">Библия</string>
@@ -81,10 +78,6 @@
     <string name="ss_coming_soon_header">Скоро</string>
     <string name="ss_coming_soon_subheader">Мы работаем над этой функцией прямо сейчас. Скоро завершим, оставайтесь с нами</string>
 
-
-    <string name="ss_about_app_version">версия 3.0</string>
-
-    <string name="ss_about_made">Сделано с &#10084; - Adventech</string>
 
     <string name="ss_settings_display_options">Настройки просмотра</string>
     <string name="ss_settings_color_theme">Цветовая схема</string>

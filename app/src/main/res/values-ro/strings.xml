@@ -49,23 +49,18 @@
 <string name="ss_lessons_error">"A apărut o eroare la deschiderea trimestrială"</string>
 <string name="ss_lessons_empty">"Se pare că nu există lecții în acest moment"</string>
 <string name="ss_lessons_read">"Citit"</string>
-<string name="ss_reading_empty">"Se pare că această lecție este goală. Verificați mai târziu"</string>
-<string name="ss_reading_error">"A apărut o eroare la deschiderea lecției"</string>
+    <string name="ss_reading_error">"A apărut o eroare la deschiderea lecției"</string>
 <string name="ss_reading_downloading">"Descărcarea lecției offline"</string>
 <string name="ss_reading_suggest_edit">"Sugerați editare sau corectare"</string>
 <string name="ss_reading_suggest_edit_hint">"Descrieți corectarea sau sugestia dvs."</string>
 <string name="ss_reading_suggest_edit_done">"Mulțumesc! Sugestia dvs. va fi examinată"</string>
-<string name="ss_reading_comment">"Cometariu"</string>
-<string name="ss_reading_enter_comment">"Introduceți comentariul"</string>
-<string name="ss_reading_copied">"Selectarea a fost copiată."</string>
+    <string name="ss_reading_copied">"Selectarea a fost copiată."</string>
 <string name="ss_reading_share_to">"Trimiteți selecția la:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"In curand"</string>
 <string name="ss_coming_soon_subheader">"Lucrăm la această funcție chiar acum. Rămâneți tunat, va veni în curând"</string>
-<string name="ss_about_app_version">"Versiunea 3.0"</string>
-<string name="ss_about_made">"Realizat cu ❤ de Adventech"</string>
-<string name="ss_settings_display_options">"Optiuni de afisare"</string>
+    <string name="ss_settings_display_options">"Optiuni de afisare"</string>
 <string name="ss_settings_color_theme">"Culoare temă"</string>
 <string name="ss_settings_color_theme_light">"Ușoară"</string>
 <string name="ss_settings_color_theme_sepia">"Sepia"</string>

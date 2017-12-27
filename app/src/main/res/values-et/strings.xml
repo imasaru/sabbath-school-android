@@ -28,23 +28,18 @@
 <string name="ss_lessons_error">"Viga ilmnes avamist kvartali"</string>
 <string name="ss_lessons_empty">"Tundub, et ei ole lugu hetkel"</string>
 <string name="ss_lessons_read">"Lugenud"</string>
-<string name="ss_reading_empty">"Paistab see õppetund on tühi. Palun kontrollige hiljem uuesti"</string>
-<string name="ss_reading_error">"Viga ilmnes avamist õppetund"</string>
+    <string name="ss_reading_error">"Viga ilmnes avamist õppetund"</string>
 <string name="ss_reading_downloading">"Allalaadimine õppetund offline"</string>
 <string name="ss_reading_suggest_edit">"Soovita muuta või korrektsioon"</string>
 <string name="ss_reading_suggest_edit_hint">"Palun kirjeldage oma korrektsioon või soovitus"</string>
 <string name="ss_reading_suggest_edit_done">"Aitäh! Teie soovitus vaadatakse"</string>
-<string name="ss_reading_comment">"Kommentaar"</string>
-<string name="ss_reading_enter_comment">"Sisesta oma kommentaar"</string>
-<string name="ss_reading_copied">"Valik on kopeeritud."</string>
+    <string name="ss_reading_copied">"Valik on kopeeritud."</string>
 <string name="ss_reading_share_to">"Jaga valiku:"</string>
 
 <!-- TODO: remove when done -->
 <string name="ss_coming_soon_header">"Tulekul"</string>
 <string name="ss_coming_soon_subheader">"Me töötame selle funktsiooni kohe. Hoia, see peatselt"</string>
-<string name="ss_about_app_version">"Versioon 3.0"</string>
-<string name="ss_about_made">"Tehtud ❤ poolt Adventech"</string>
-<string name="ss_settings_display_options">"Kuvavalikud"</string>
+    <string name="ss_settings_display_options">"Kuvavalikud"</string>
 <string name="ss_settings_color_theme">"Värviteema"</string>
 <string name="ss_settings_color_theme_light">"Valgus"</string>
 <string name="ss_settings_color_theme_sepia">"Seepia"</string>
