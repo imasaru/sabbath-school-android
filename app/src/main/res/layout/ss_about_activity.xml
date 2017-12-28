@@ -38,7 +38,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical">
 
 
@@ -70,8 +70,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginTop="15dp"
-                android:layout_marginBottom="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
                 android:orientation="horizontal">
 
                 <ImageView
@@ -80,40 +80,46 @@
                     android:layout_height="24dp"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    bind:srcCompat="@drawable/ss_icon_facebook" />
+                    android:clickable="true"
+                    bind:srcCompat="@drawable/ss_icon_facebook"
+                    android:onClick="@{() -> viewModel.onFacebookClick()}"
+                    android:focusable="true" />
 
                 <ImageView
                     android:id="@+id/ss_icon_github"
                     android:layout_width="24dp"
                     android:layout_height="24dp"
-                    android:layout_toRightOf="@+id/ss_icon_facebook"
                     android:layout_weight="1"
-                    bind:srcCompat="@drawable/ss_icon_github" />
+                    android:clickable="true"
+                    bind:srcCompat="@drawable/ss_icon_github"
+                    android:onClick="@{() -> viewModel.onGitHubClick()}"
+                    android:focusable="true" />
 
                 <ImageView
                     android:id="@+id/ss_icon_instagram"
                     android:layout_width="24dp"
                     android:layout_height="24dp"
-                    android:layout_toLeftOf="@+id/ss_icon_facebook"
                     android:layout_weight="1"
-                    bind:srcCompat="@drawable/ss_icon_instagram" />
+                    android:clickable="true"
+                    bind:srcCompat="@drawable/ss_icon_instagram"
+                    android:onClick="@{() -> viewModel.onInstagramClick()}"
+                    android:focusable="true" />
             </LinearLayout>
 
             <FrameLayout
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center|center_horizontal"
                 android:background="?attr/selectableItemBackground"
                 android:clickable="true"
-                android:onClick="@{() -> viewModel.onWebsiteClick()}">
+                android:onClick="@{() -> viewModel.onWebsiteClick()}"
+                android:focusable="true">
 
                 <TextView
                     android:id="@+id/ss_website"
                     fontPath="Lato-Regular.ttf"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_gravity="center|center_horizontal"
-                    android:layout_marginBottom="@dimen/ss_about_made_margin_bottom"
-                    android:layout_marginTop="@dimen/ss_about_made_margin_top"
                     android:gravity="bottom"
                     android:text="@string/ss_settings_website_summary"
                     android:textColor="@color/colorSecondaryDark"
@@ -124,11 +130,10 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
                 android:layout_marginLeft="30dp"
                 android:layout_marginRight="30dp"
-                android:layout_marginTop="10dp"
-                android:fontFamily="sans-serif"
                 android:text="@string/ss_about_adventech_mission"
                 android:textAlignment="viewStart"
                 android:textSize="18sp"
